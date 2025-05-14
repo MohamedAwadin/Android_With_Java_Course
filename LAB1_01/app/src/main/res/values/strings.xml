@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LAB1_01</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="Message">Message</string>
+    <string name="next">Next</string>
+    <string name="Exit" />
+    <string name="exit">Exit\n</string>
+    <string name="numbers">0123456789\n</string>
+    <string name="msg">Hello</string>
+    <string name="mesg">Hello\n</string>
+    <string name="Numbers">0123456789\n</string>
+</resources>

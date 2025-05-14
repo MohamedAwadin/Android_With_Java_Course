@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LAB1_01</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="Message">Message</string>
+    <string name="next">Next</string>
+    <string name="Exit" />
+    <string name="exit">Exit\n</string>
+    <string name="numbers">0123456789\n</string>
+    <string name="msg">Hello</string>
+    <string name="mesg">Hello\n</string>
+    <string name="Numbers">0123456789\n</string>
+    <string name="writePrefrence">writePrefrence</string>
+    <string name="writeSH">writeSH</string>
+    <string name="readSH">readSH</string>
+    <string name="n_a">N/A</string>
+    <string name="WIS">WIS\n</string>
+    <string name="RIS">RIS</string>
+    <string name="WDB">WDB</string>
+    <string name="RDB">RDB\n</string>
+</resources>
